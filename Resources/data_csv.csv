@@ -11074,3 +11074,42 @@ year,category,winner,entity
 2019,BEST PICTURE,FALSE,Marriage Story
 2019,BEST PICTURE,FALSE,1917
 2019,BEST PICTURE,FALSE,Once Upon a Time in Hollywood
+2018,DIRECTING,TRUE,Roma
+2018,DIRECTING,FALSE,The Favourite
+2018,DIRECTING,FALSE,BlacKkKlansman
+2018,DIRECTING,FALSE,Vice
+2018,DIRECTING,FALSE,Cold War
+2019,DIRECTING,TRUE,Parasite
+2019,DIRECTING,FALSE,1917
+2019,DIRECTING,FALSE,Joker
+2019,DIRECTING,FALSE,The Irishman
+2019,DIRECTING,FALSE,Once Upon a Time in Hollywood
+2018,WRITING (adapted Screenplay),TRUE,BlacKkKlansman
+2018,WRITING (adapted Screenplay),FALSE,The Ballad of Buster Scruggs
+2018,WRITING (adapted Screenplay),FALSE,Can You Ever Forgive Me?
+2018,WRITING (adapted Screenplay),FALSE,If Beale Street Could Talk
+2018,WRITING (adapted Screenplay),FALSE,A Star Is Born
+2019,WRITING (adapted Screenplay),TRUE,Jojo Rabbit
+2019,WRITING (adapted Screenplay),FALSE,The Irishman
+2019,WRITING (adapted Screenplay),FALSE,Joker
+2019,WRITING (adapted Screenplay),FALSE,Little Women
+2019,WRITING (adapted Screenplay),FALSE,The Two Popes
+2018,WRITING (Original Screenplay),TRUE,Green Book
+2018,WRITING (Original Screenplay),FALSE,The Favourite
+2018,WRITING (Original Screenplay),FALSE,First Reformed
+2018,WRITING (Original Screenplay),FALSE,Roma
+2018,WRITING (Original Screenplay),FALSE,Vice
+2019,WRITING (Original Screenplay),TRUE,Parasite
+2019,WRITING (Original Screenplay),FALSE,Knives Out
+2019,WRITING (Original Screenplay),FALSE,Marriage Story
+2019,WRITING (Original Screenplay),FALSE,1917
+2019,WRITING (Original Screenplay),FALSE,Once Upon a Time in Hollywood
+2018,VISUAL EFFECTS,TRUE,First Man
+2018,VISUAL EFFECTS,FALSE,Avengers: Infinity War
+2018,VISUAL EFFECTS,FALSE,Christopher Robin
+2018,VISUAL EFFECTS,FALSE,Ready Player One
+2018,VISUAL EFFECTS,FALSE,Solo: A Star Wars Story
+2019,VISUAL EFFECTS,TRUE,1917
+2019,VISUAL EFFECTS,FALSE,Avengers: Endgame
+2019,VISUAL EFFECTS,FALSE,The Irishman
+2019,VISUAL EFFECTS,FALSE,Star Wars: The Rise of Skywalker
